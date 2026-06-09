@@ -1,5 +1,6 @@
 # Deploying the Business Insights Advisor App
 
+Upload required data files to ask questions, get insights, and explore with the Business Insights Advisor app.
 This contains everything you need to run your app locally.
 
 **Existing URL: https://business-insights-advisor-204522342353.us-west1.run.app/**
