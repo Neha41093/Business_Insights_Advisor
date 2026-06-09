@@ -1,4 +1,4 @@
-# Deploying the Business Insights Advisor AI Studio App
+# Deploying the Business Insights Advisor App
 
 This contains everything you need to run your app locally.
 
